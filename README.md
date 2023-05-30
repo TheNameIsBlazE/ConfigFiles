@@ -18,4 +18,3 @@ ___Reach out to me!___
 - YouTube: @ChroniCBlazE
 - Twitch: ChroniCBlazE
 - Twitter: @TheNameIsBlazE
-- Reddit: TheNameIsBlazE_
