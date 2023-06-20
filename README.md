@@ -14,7 +14,7 @@
   - Doing YouTube as a side hobby 🎥
 
 ___Reach out to me!___
-- Discord: TheNameIsBlazE#9635
-- YouTube: @ChroniCBlazE
-- Twitch: ChroniCBlazE
-- Twitter: @TheNameIsBlazE
+- Discord: [TheNameIsBlazE#9635](https://discordapp.com/users/430425935444180992)
+- YouTube: [@ChroniCBlazE](https://www.youtube.com/@ChroniCBlazE)
+- Twitch: [ChroniCBlazE](https://www.twitch.tv/chronicblaze)
+- Twitter: [@TheNameIsBlazE](https://twitter.com/TheNameIsBlazE)
