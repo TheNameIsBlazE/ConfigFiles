@@ -7,7 +7,7 @@
 
   - Currently interested in computer hardware and software 💻
   - Built a gaming PC in 2020 🖥
-  - Aspiring engineer (Class of 2028) 🧲
+  - Aspiring engineer (McMaster Engineering Class of 2028) 🧲
   - Experienced in Java and excited to learn more languages 👨‍💻
   - Interested in learning more about robotics 🤖
   - Passionate about Wii Modding and hoping to develop Homebrew applications 🎮
