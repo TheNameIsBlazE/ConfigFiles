@@ -14,8 +14,6 @@
   - Doing YouTube as a side hobby 🎥
 
 ___Reach out to me!___
-- Discord: [thenameisblaze](https://discordapp.com/users/430425935444180992)
-- YouTube: [@ChroniCBlazE](https://www.youtube.com/@ChroniCBlazE)
-- Twitch: [ChroniCBlazE](https://www.twitch.tv/chronicblaze)
-- Twitter: [@TheNameIsBlazE](https://twitter.com/TheNameIsBlazE)
 - Instagram: [@sullynumber9](https://www.instagram.com/sullynumber9/)
+- LinkedIn: [Adam Suljak](https://www.linkedin.com/in/adam-suljak-1b3437282/)
+- Technical Portfolio: [Adam Suljak](https://bit.ly/adam-suljak)
