@@ -15,6 +15,7 @@
 
 __My best projects include...__
   - Blink Twice if you need help, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino), at DeltaHacks X!
+  - Mathemati.co, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino) and [Patrick Gaied](https://github.com/PatrickGaied), at Deerhacks III
   - Team "insert name here" at McMaster Sumobots 2024!
   - Three Engineering 1P13 Projects (Project 4 coming soon!):
            - A wind turbine design project
