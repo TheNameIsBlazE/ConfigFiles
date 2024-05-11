@@ -6,12 +6,10 @@
   ___A bit about me:___
 
   - Currently interested in computer hardware and software 💻
-  - Built a gaming PC in 2020 🖥
-  - LOVE participating in hackathons! 🤖
+  - [MacRover](https://github.com/MacRover) Software Team Member  🤖
   - Aspiring engineer (McMaster Engineering Class of 2028) 🧲
-  - Experienced in Java and Python and hoping to learn more languages 👨‍💻
   - Passionate about Wii Modding 🎮
-  - Doing YouTube as a side hobby 🎥
+  - Three previous hackathons: Delatahacks X, Deerhacks III, and HawkHacks 2024 ✖️
 
 __My best projects include...__
   - Blink Twice if you need help, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino), at DeltaHacks X!
