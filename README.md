@@ -7,6 +7,7 @@
 
   - Currently interested in computer hardware and software 💻
   - [MacRover](https://github.com/MacRover) Software Team Member  🤖
+  - [DeltaHacks](https://github.com/deltahacks) Marketing Executive 🎤
   - Aspiring engineer (McMaster Computer Engineering Class of 2028) 🧲
   - Passionate about Wii Modding 🎮
   - Three previous hackathons: Delatahacks X, Deerhacks III, and HawkHacks 2024 ✖️
